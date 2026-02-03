@@ -1,10 +1,10 @@
-Ecommerce SQL Analysis By Solomon Ebrahimoff
+## Ecommerce SQL Analysis By Solomon Ebrahimoff
 
-Project Overview:
+## Project Overview:
 This project analyses the Brazilian E-Commerce Public Dataset by Olist to understand sales performance, customer behaviour, and product demand.
 Using SQL, the analysis focuses on identifying revenue drivers, customer retention issues, and category-level performance to support data-driven business decisions.
 
-Business objective:
+## Business objective:
 Analyse Olist’s e-commerce data to:
 	•	Evaluate overall revenue performance
 	•	Identify top-performing product categories
@@ -12,14 +12,14 @@ Analyse Olist’s e-commerce data to:
 	•	Analyse revenue trends over time
 	•	Assess customer satisfaction through reviews
 
-Dataset:
+## Dataset:
 Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle) 
 ## Data Note
 The `olist_geolocation_dataset.csv` file is excluded due to GitHub file size limits.
 It can be downloaded from the original Kaggle dataset:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Tables used:
+## Tables used:
 	•	customers
 	•	orders
 	•	order_items
@@ -30,19 +30,19 @@ Tables used:
 	•	geolocation
 	•	product_category_name_translation
 
-  Tools Used:
+ ## Tools Used:
 	•	SQL (MySQL / phpMyAdmin)
 	•	Localhost database
 	•	CSV data import
 
-  Key Business Questions:
+ ## Key Business Questions:
 	1.	What is the total revenue generated?
 	2.	How does revenue change over time (monthly trends)?
 	3.	Which product categories generate the most revenue?
 	4.	How many customers are one-time vs repeat buyers?
 	5.	What is the overall customer satisfaction level?
 
-Key Findings:
+## Key Findings:
 Revenue Performance:
 	•	Total revenue: £15.84M
 	•	Revenue shows strong growth from early 2017, peaking in late 2017–2018.
@@ -78,7 +78,7 @@ Key KPIs:
 	•	One-Time Customers: 99,441
 	•	Top Category Revenue: Health & Beauty (£1.44M)
 
-Business Recommendations:
+## Business Recommendations:
 	•	Increase focus on high-performing categories such as Health & Beauty and Watches & Gifts through promotions and stock optimisation.
 	•	Improve customer retention by introducing loyalty programmes, personalised offers, and post-purchase engagement.
 	•	Review underperforming categories to identify pricing, visibility, or demand issues and optimise product strategy.  
