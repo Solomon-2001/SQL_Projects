@@ -13,7 +13,8 @@ Analyse Olist’s e-commerce data to:
 	•	Assess customer satisfaction through reviews
 
 Dataset:
-Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle) 
+(CVS file for geolocation too large to upload in repository)
 Tables used:
 	•	customers
 	•	orders
