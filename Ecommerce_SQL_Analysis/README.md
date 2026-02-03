@@ -14,7 +14,11 @@ Analyse Olist’s e-commerce data to:
 
 Dataset:
 Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle) 
-(CVS file for geolocation too large to upload in repository)
+## Data Note
+The `olist_geolocation_dataset.csv` file is excluded due to GitHub file size limits.
+It can be downloaded from the original Kaggle dataset:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 Tables used:
 	•	customers
 	•	orders
