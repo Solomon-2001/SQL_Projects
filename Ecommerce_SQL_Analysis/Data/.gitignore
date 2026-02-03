@@ -1,1 +1,2 @@
-
+# Ignore large geolocation dataset
+olist_geolocation_dataset.csv
