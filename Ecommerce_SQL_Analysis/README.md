@@ -36,11 +36,11 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - CSV data import
 
  ## Key Business Questions:
-	1.	What is the total revenue generated?
-	2.	How does revenue change over time (monthly trends)?
-	3.	Which product categories generate the most revenue?
-	4.	How many customers are one-time vs repeat buyers?
-	5.	What is the overall customer satisfaction level?
+1.	What is the total revenue generated?
+2.	How does revenue change over time (monthly trends)?
+3.	Which product categories generate the most revenue?
+4.	How many customers are one-time vs repeat buyers?
+5.	What is the overall customer satisfaction level?
 
 ## Key Findings:
 Revenue Performance:
